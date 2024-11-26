@@ -13,3 +13,7 @@
 * `GRAP <http://www.grap.coop/>`_:
 
   * Sylvain LE GAL <https://twitter.com/legalsylvain>
+
+* `Apik <https://apik.cloud/>`_:
+  
+  * Thomas Herbin
